@@ -6,7 +6,7 @@ export default function UserGallery () {
         display:'flex',
         flexDirection: 'row',
         justifyContent: 'space-around',
-        flexwrap:'wrap',
+        flexWrap:'wrap',
         alignItems: "center",
         padding: "25px 0px 0px 0px"
     }
